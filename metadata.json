@@ -1,0 +1,6 @@
+{
+  "name": "GastroMaster Pro | Sistema Integral de Restaurante & POS",
+  "description": "Sistema integral de restaurante con autoservicio en mesa, fidelización de clientes, comandería KDS, arqueo diario automatizado, inventario, reportes mensuales y arquitectura .NET 10 + React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
